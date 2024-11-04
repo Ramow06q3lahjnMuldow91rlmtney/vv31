@@ -4,3 +4,4 @@ Fix issue in Y [AIcRyf] line 3.2
 Fix issue in Y [AIcRyf] line 3.3
 Fix issue in Y [BDHkzF] line 4.1
 Update documentation [HJ2gnI] line 5.1
+Update documentation [gdaYGK] line 6.2
