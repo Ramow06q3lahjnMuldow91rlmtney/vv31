@@ -6,3 +6,4 @@ Fix issue in Y [BDHkzF] line 4.1
 Update documentation [HJ2gnI] line 5.1
 Update documentation [gdaYGK] line 6.2
 Add feature for X [bV7B9h] line 8.3
+Fix issue in Y [3aBYmr] line 10.2
